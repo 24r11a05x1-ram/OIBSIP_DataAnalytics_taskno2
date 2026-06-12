@@ -94,7 +94,7 @@ The dataset contains customer information including demographics, purchasing act
 
 ---
 
-## 🧹 Data Cleaning
+##  Data Cleaning
 
 The following preprocessing steps were performed:
 
@@ -109,7 +109,7 @@ Only the Income column contained missing values, which were replaced using the m
 
 ---
 
-## ⚙️ Feature Engineering
+##  Feature Engineering
 
 Several new features were created to improve customer analysis.
 
@@ -152,7 +152,7 @@ Binary feature indicating whether the customer is currently in a relationship.
 
 ---
 
-## 📊 Exploratory Data Analysis
+##  Exploratory Data Analysis
 
 The following analyses were performed:
 
@@ -235,7 +235,7 @@ The cluster profiles help identify different customer types and their behavioral
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 1. Income has a strong influence on customer spending behavior.
 
@@ -259,7 +259,7 @@ The cluster profiles help identify different customer types and their behavioral
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 ### High-Value Customers
 
